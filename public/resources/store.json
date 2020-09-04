@@ -1,0 +1,9 @@
+[
+    {
+        "id":1,
+        "product_name":"테스트",
+        "brand": "테스트",
+        "price":"500,000원",
+        "photo":"dog.jpg"
+    }
+]
